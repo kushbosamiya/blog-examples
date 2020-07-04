@@ -32,7 +32,13 @@ export default function LoginForm() {
               <FormLabel>Password</FormLabel>
               <Input type="password" placeholder="*******" size="lg" />
             </FormControl>
-            <Button variantColor="teal" variant="outline" width="full" mt={4}>
+            <Button
+              type="submit"
+              variantColor="teal"
+              variant="outline"
+              width="full"
+              mt={4}
+            >
               Sign In
             </Button>
           </form>
