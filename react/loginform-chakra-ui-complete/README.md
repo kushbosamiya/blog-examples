@@ -1,6 +1,6 @@
 ## Forms with Chakra UI
 
-- Complete Blog Post: [https://blog.logrocket.com/how-to-create-forms-with-chakra-ui-in-react-apps/](https://blog.logrocket.com/how-to-create-forms-with-chakra-ui-in-react-apps/
+- Complete Blog Post: [https://blog.logrocket.com/how-to-create-forms-with-chakra-ui-in-react-apps/](https://blog.logrocket.com/how-to-create-forms-with-chakra-ui-in-react-apps/)
 
 Final output:
 
